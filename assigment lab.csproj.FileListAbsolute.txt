@@ -1,0 +1,15 @@
+C:\Users\Noona\Documents\Visual Studio 2012\Projects\assigment lab\assigment lab\bin\Debug\assigment lab.exe.config
+C:\Users\Noona\Documents\Visual Studio 2012\Projects\assigment lab\assigment lab\obj\Debug\assigment lab.csprojResolveAssemblyReference.cache
+C:\Users\Noona\Documents\Visual Studio 2012\Projects\assigment lab\assigment lab\obj\Debug\assigment_lab.Form1.resources
+C:\Users\Noona\Documents\Visual Studio 2012\Projects\assigment lab\assigment lab\obj\Debug\assigment_lab.Properties.Resources.resources
+C:\Users\Noona\Documents\Visual Studio 2012\Projects\assigment lab\assigment lab\obj\Debug\assigment lab.csproj.GenerateResource.Cache
+C:\Users\Noona\Documents\Visual Studio 2012\Projects\assigment lab\assigment lab\bin\Debug\assigment lab.exe
+C:\Users\Noona\Documents\Visual Studio 2012\Projects\assigment lab\assigment lab\bin\Debug\assigment lab.pdb
+C:\Users\Noona\Documents\Visual Studio 2012\Projects\assigment lab\assigment lab\obj\Debug\assigment lab.exe
+C:\Users\Noona\Documents\Visual Studio 2012\Projects\assigment lab\assigment lab\obj\Debug\assigment lab.pdb
+C:\Users\Noona\Documents\Visual Studio 2012\Projects\assigment lab\assigment lab\obj\Debug\assigment_lab.Form2.resources
+C:\Users\Noona\Documents\Visual Studio 2012\Projects\assigment lab\assigment lab\obj\Debug\assigment_lab.Form3.resources
+C:\Users\Noona\Documents\Visual Studio 2012\Projects\assigment lab\assigment lab\obj\Debug\assigment_lab.Form4.resources
+C:\Users\Noona\Documents\Visual Studio 2012\Projects\assigment lab\assigment lab\obj\Debug\assigment_lab.Form5.resources
+C:\Users\Noona\Documents\Visual Studio 2012\Projects\assigment lab\assigment lab\obj\Debug\assigment_lab.Form6.resources
+C:\Users\Noona\Documents\Visual Studio 2012\Projects\assigment lab\assigment lab\obj\Debug\assigment_lab.Form7.resources
